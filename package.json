@@ -1,0 +1,21 @@
+{
+  "name": "visitor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "dev": "tsx src/index.ts"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^12.4.3",
+    "playwright": "^1.51.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
